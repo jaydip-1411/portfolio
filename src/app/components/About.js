@@ -16,7 +16,7 @@ export default function About() {
         <div className="w-full md:w-1/2 text-center md:text-left px-4">
           <h2 className="text-4xl font-bold text-gray-800 mb-4 animate-fade-in-up">About Me</h2>
           <p className="text-gray-600 text-lg animate-fade-in-up">
-            I'm <span className="text-blue-500 font-semibold">Jaydip Patel</span>, a dedicated video editor with 
+            I am <span className="text-blue-500 font-semibold">Jaydip Patel</span>, a dedicated video editor with 
             <span className="text-blue-500 font-semibold"> 3 years of experience</span>. My passion lies in crafting visually engaging stories through videos, leveraging tools like Photoshop, Adobe After Effects, and Premiere Pro.
           </p>
           <p className="mt-4 text-gray-600 animate-fade-in-up">
