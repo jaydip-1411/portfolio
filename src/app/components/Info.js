@@ -18,7 +18,7 @@ export default function Info() {
           </div>
         </div>
         <div className="w-full md:w-1/2 text-center md:text-left px-4">
-          <h3 className="text-2xl font-bold text-gray-200 mb-4 animate-fade-in-up">Innovative Solutions</h3>
+          <h3 className="text-2xl font-bold text-gray-200 mb-4 animate-fade-in-up">Innovative Solutions.</h3>
           <p className="text-gray-600 text-lg animate-fade-in-up mb-4">
             We are committed to providing creative and effective solutions that bring your vision to life. Our team of experts collaborates closely with clients to deliver impactful and meaningful results.
           </p>
